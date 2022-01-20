@@ -10,7 +10,7 @@
 
 .main-hero {
     background: #CC6723;
-    height: 90vh;
+    height: 80vh;
 
 }
 
@@ -81,7 +81,7 @@ ul {
 }
 
 .cntr-description {
-    font-size: 18px;
+    font-size: 25px;
     color: #E5E7EB;
     font-weight:100;
     margin-bottom: 15px;
