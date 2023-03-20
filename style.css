@@ -102,18 +102,21 @@ ul {
     cursor: pointer;
 }
 
-.middlehero {
+/* .middlehero {
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 30px;  
-}
+} */
+
+
 
 .middletitle{
     font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
-    margin-bottom: 20px;
+    margin: 20px;
+    text-align: center;
 }
 
 .cards-cntr {
@@ -219,7 +222,7 @@ button:hover {
     align-items: center;
     background: #1f2937;
     color: #F9faf8;
-    padding: 15px;
+    padding: 8px;
     font-weight: lighter;
     letter-spacing: 1px;
 }
